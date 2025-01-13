@@ -298,10 +298,17 @@ www.123pan.com##.uppy-Dashboard-slowSpeed-banner
 www.123pan.com##div[style="position: relative; width: 100%; height: 44px; background: rgb(89, 125, 252); text-align: center; color: rgb(255, 255, 255); font-size: 14px; line-height: 44px; font-weight: bold;"]
 www.123pan.com##span[style="cursor: pointer;"]
 www.360doc.cn##.abtn_openapp
+www.360doc.cn##.footer_nav_box
 www.360doc.cn##.openapp_
 www.360doc.cn##.toapp
+www.360doc.cn##.youlike
+www.360doc.cn###ArticleReadingBtn
+www.360doc.cn###bdartlist
 www.360doc.cn###CopyBtn
+www.360doc.cn##div[style="height:72px;overflow:hidden;"]
 www.360doc.cn##div[style="height: 72px; overflow: hidden; user-select: auto;"]
+www.360doc.cn##div[style="padding-top: 10px;"]
+www.360doc.cn##footer[data-sudaclick="footer"]
 www.4399.com###Anti_mask
 www.4399.com###Anti_open
 www.123684.com##.appHeader
