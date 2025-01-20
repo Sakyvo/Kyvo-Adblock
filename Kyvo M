@@ -255,6 +255,7 @@ wap.mail.qq.com##.download_container
 wapbaike.baidu.com###fVwPfEe11
 web.archive.org##.opened
 web.archive.org###dialog
+web.telegram.org##.messaging-disabled
 web.telegram.org##.SponsoredMessage
 wen.baidu.com##.bottombar-wp
 wen.baidu.com###go-sp-btn
@@ -358,6 +359,8 @@ www.bilibili.com###share-btn-weixin
 www.bilibili.com###slide_ad
 www.bilibili.com#bannerAd
 www.bing.com##.b_ans
+www.bing.com##.b_msg
+www.bing.com##.b_pag
 www.bing.com##.bnp_container
 www.bing.com##.usrlc_bpc
 www.bing.com###b_footer
@@ -365,6 +368,7 @@ www.bing.com###b_pag_sh_btn_container
 www.bing.com###sacs_win
 www.bnext.com.tw###aaabar
 www.deepl.com##.z-40
+www.deviantart.com##._2F0x
 www.deviantart.com##.f-14-reg
 www.deviantart.com##.OFdyZ
 www.deviantart.com##.XN05V
@@ -389,6 +393,7 @@ www.kookapp.cn##.text-room-tip-list
 www.lanzn.com##.mdo
 www.mcnav.net##.59826la2nsue
 www.mediafire.com##.Avast
+www.mediafire.com##.lifetime-promo
 www.mediafire.com##.TurboDL-toggle-box
 www.mediafire.com###footer
 www.mediafire.com###non-dl-content
