@@ -145,9 +145,8 @@ m.zuowenwang.net##.af_itme
 mail.163.com###smartBottomAd
 mail.google.com###nav
 mail.google.com###speedbump
-mail.proton.me##.border-bottom
 mail.proton.me##.p-4
-mail.proton.me##.topnav-container
+mail.proton.me##.topnav-list
 mbook.kongfz.com##.open-miniappdialog
 mega.nz##.banner-rack
 mega.nz##.mega-bottom-bar
@@ -229,6 +228,7 @@ tieba.baidu.com##._3utznwy
 tieba.baidu.com##._68hwe7u _68hwe7u
 tieba.baidu.com##._73gawc6
 tieba.baidu.com##._3839kw3
+tieba.baidu.com##.af_head_gamelink
 tieba.baidu.com##.app_download_box
 tieba.baidu.com##.c-container ec-xuzhang
 tieba.baidu.com##.post_head_official
