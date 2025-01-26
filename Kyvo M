@@ -39,6 +39,9 @@ blog.dingtone.me##.wp-block-button__link
 blog.dingtone.me###rg-book
 bypass.vip##main>section>p
 chat.chatgptplus.cn##.text-token-text-secondary
+chat.deepseek.com##.a1e75851
+chat.deepseek.com##.a24007f4
+chat.deepseek.com##.fcaa63f8
 chatgpt.com##.lg:bottom-0
 chatgpt.com##.md:pt-0
 chatgpt.com##.md:px-[60px]>span
@@ -57,7 +60,9 @@ cn.bing.com###b-scopeListItem-bingpages
 cn.bing.com###bnp_rich_div
 cn.bing.com##a[href^="/bp/verify"]
 ctfile.qinlili.bid###ads
+dictionary.cambridge.org##.parallax-container
 dictionary.cambridge.org##.tz0
+dictionary.cambridge.org###ad_btmslot
 dictionary.cambridge.org###ad_contentslot_1
 dictionary.cambridge.org###ad_contentslot_2
 dictionary.cambridge.org###ad_contentslot_3
@@ -145,6 +150,7 @@ m.zuowenwang.net##.af_itme
 mail.163.com###smartBottomAd
 mail.google.com###nav
 mail.google.com###speedbump
+mail.proton.me##.bg-promotion
 mail.proton.me##.p-4
 mail.proton.me##.topnav-list
 mbook.kongfz.com##.open-miniappdialog
@@ -442,12 +448,6 @@ yunjisms.xyz##.mb-2
 zb201.info##.layer
 zb202.xyz##.layer
 zh.moegirl.org.cn##.2ze0f0ttceb3
-zh.z-lib.fm##.android-announce-container
-zh.z-lib.fm##.cBox1Danger
-zh.z-lib.fm###messageBlock
-zh.z-lib.gs##.android-announce-container
-zh.z-lib.gs##.cBox1Danger
-zh.z-lib.gs###messageBlock
 zh.z-library.sk##.android-announce-container
 zh.z-library.sk##.cBox1Danger
 zh.z-library.sk###messageBlock
