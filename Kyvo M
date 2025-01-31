@@ -37,7 +37,7 @@ blog.csdn.net##.openApp
 blog.csdn.net##.subject-talk-box
 blog.dingtone.me##.wp-block-button__link
 blog.dingtone.me###rg-book
-由pass.vip##main>section>p
+bypass.vip##main>section>p
 chat.chatgptplus.cn##.text-token-text-secondary
 chat.deepseek.com##.a1e75851
 chat.deepseek.com##.a24007f4
@@ -82,6 +82,7 @@ free01.xyz##img[src="2.jpg"]
 gemini.google.com##.capabilities-disclaimer
 gemini.google.com##.get-app-banner
 gemini.google.com##.gmat-caption
+greasyfork.org##.qmsg-shadow-container
 history.ifeng.com##.index_bottom_box_CCgoj
 imgur.com##.SeeImgurOIA-container
 imgur.com##.SeeImgurOIA-overlay
@@ -152,6 +153,7 @@ mail.google.com###nav
 mail.google.com###speedbump
 mail.proton.me##.bg-promotion
 mail.proton.me##.p-4
+mail.proton.me##.topnav-list
 mbook.kongfz.com##.open-miniappdialog
 mega.nz##.banner-rack
 mega.nz##.mega-bottom-bar
@@ -166,6 +168,7 @@ metaso.cn##.css-8oh5ra
 metaso.cn##.css-169hiok
 metaso.cn##.css-1716r6k
 metaso.cn##.search-model-tip
+metaso.cn##.search-tip-label-container
 metaso.cn##.SystemMessage_container__59ZCq
 metaso.cn##.usage-record_card-footer____DrU
 metaso.cn##.usage-record_card-time__bb3jt
@@ -178,6 +181,7 @@ mzh.moegirl.org.cn##.__button-1c6bqbn-dlmmp
 mzh.moegirl.org.cn##.__button-light-1379ga8-dlmmp
 mzh.moegirl.org.cn##.n-button--medium-type
 mzh.moegirl.org.cn##.n-button--primary-type
+mzh.moegirl.org.cn##.n-notification-container
 mzh.moegirl.org.cn##.vrzgmupk5q4i
 mzh.moegirl.org.cn##.vue3-marquee
 mzh.moegirl.org.cn##.z1v22t1rrjkf
@@ -187,6 +191,10 @@ ngabbs.com##.headline
 noodlemagazine.com##.jw-icon-fullscreen
 noodlemagazine.com##.tags-wrapper
 oalecd10.cp.com.cn##.desktop-header_phone__ZYyuQ
+onlinenotepad.one##.bg-zinc-50
+onlinenotepad.one##.h-16
+onlinenotepad.one##footer[style="user-select: auto;"]
+onlinenotepad.one##section[style="user-select: auto;"]
 outlook.live.com##.wOYnU
 pan.quark.cn##.CommonHeaderBar--detail-header-bar--N92gJSL
 pan.quark.cn##.h5-share-banner
@@ -280,6 +288,7 @@ wk.baidu.com##.n-card-wrap-exp
 wk.baidu.com##.van-swipe-item
 wk.baidu.com##.wk-student-defense
 wk.baidu.com##div[page-data="[object Object],[object Object],[object Object],[object Object]"]
+workupload.com##.ad-label
 wwl.lanzouj.com##.jingshi
 www.36kr.com##.article-top-swiper-goapp
 www.52pojie.cn##.ptn
@@ -318,7 +327,15 @@ www.360doc.cn##footer[data-sudaclick="footer"]
 www.4399.com###Anti_mask
 www.4399.com###Anti_open
 www.123684.com##.appHeader
+www.apkmirror.com##.advertisement-text
+www.apkmirror.com##.ains-3
+www.apkmirror.com##.ains-24
+www.apkmirror.com##.ains-25
+www.apkmirror.com##.ains-26
+www.apkmirror.com##.ains-40
+www.apkmirror.com##.google-ad-leaderboard
 www.apkmirror.com###ai_widget-2
+www.apkmirror.com###ai_widget-3
 www.aypg.cn##.card mb-2
 www.baidu.com##div[style="overflow: hidden;background: #fff;position: relative;"]
 www.baoxuexiedu.com##.fileTitle
@@ -440,10 +457,6 @@ xw.qq.com##.jsx-3636217773 gohome nologo
 yandex.com##.eVL6YTUDHRQTaaOFtuQ9HaaC0-Incut
 yandex.com##.huatYa0ZFNOGhZOXaqhogGviP-Incut
 yandex.com##.images-viewer-content2__container
-yoriichi.lanzn.com##.jingshi
-yoriichi.lanzn.com##.pc
-yoriichi.lanzn.com##.top
-yunjisms.xyz##.mb-2
 zb201.info##.layer
 zb202.xyz##.layer
 zh.moegirl.org.cn##.2ze0f0ttceb3
