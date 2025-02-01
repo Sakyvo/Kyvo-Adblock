@@ -134,8 +134,6 @@ m.koolearn.com##.adv-module1
 m.koolearn.com##.adv-module2-wrap
 m.koolearn.com##.top-ad
 m.koolearn.com##p[style="text-align:center"]
-m.ruiwen.com##.copy_mask
-m.ruiwen.com##.footerfix
 m.sohu.com###CallAppContainer
 m.soundcloud.com##.FooterStoreSection_FooterStoreSection__30zge
 m.soundcloud.com##.Header_RightContainer__1VyFh
@@ -143,7 +141,6 @@ m.soundcloud.com##.Me_CtaContainer__mg8ss
 m.thepaper.cn##.index_footer_banner__Mcr_R
 m.thepaper.cn###moblink_header
 m.twitch.tv##.gIoiAx
-m.wendangwang.com###fthb
 m.youdao.com##.content
 m.youtube.com##.player-controls-background-action-items
 m.youtube.com##.YtwPlayerAutonavToggleHost
@@ -167,6 +164,7 @@ metaso.cn##.css-6d72hc
 metaso.cn##.css-8oh5ra
 metaso.cn##.css-169hiok
 metaso.cn##.css-1716r6k
+metaso.cn##.Search_recommendedQuestionList__8L2Xe
 metaso.cn##.search-model-tip
 metaso.cn##.search-tip-label-container
 metaso.cn##.SystemMessage_container__59ZCq
@@ -218,6 +216,7 @@ shimo.im##.cg-action-sheet--option__disabled
 shimo.im##.cg-launch-app-button
 space.bilibili.com##.auth-section
 space.bilibili.com##.bili-dyn-content__orig__additional
+space.bilibili.com##.elec
 space.bilibili.com##.elec-section
 space.bilibili.com##.game-section
 space.bilibili.com##.living-section-tips
@@ -336,7 +335,6 @@ www.apkmirror.com##.ains-40
 www.apkmirror.com##.google-ad-leaderboard
 www.apkmirror.com###ai_widget-2
 www.apkmirror.com###ai_widget-3
-www.aypg.cn##.card mb-2
 www.baidu.com##div[style="overflow: hidden;background: #fff;position: relative;"]
 www.baoxuexiedu.com##.fileTitle
 www.bilibili.com##.ad-report video-card-ad-small
