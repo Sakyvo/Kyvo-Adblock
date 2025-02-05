@@ -60,7 +60,12 @@ cn.bing.com###b-scopeListItem-bingpages
 cn.bing.com###bnp_rich_div
 cn.bing.com##a[href^="/bp/verify"]
 ctfile.qinlili.bid###ads
+dictionary.cambridge.org##.definition-src
+dictionary.cambridge.org##.fs
+dictionary.cambridge.org##.i-qzone
+dictionary.cambridge.org##.i-weibo
 dictionary.cambridge.org##.parallax-container
+dictionary.cambridge.org##.tc-bi
 dictionary.cambridge.org##.tz0
 dictionary.cambridge.org###ad_btmslot
 dictionary.cambridge.org###ad_contentslot_1
@@ -455,6 +460,10 @@ xw.qq.com##.jsx-3636217773 gohome nologo
 yandex.com##.eVL6YTUDHRQTaaOFtuQ9HaaC0-Incut
 yandex.com##.huatYa0ZFNOGhZOXaqhogGviP-Incut
 yandex.com##.images-viewer-content2__container
+ygpy.net##.gg-text
+ygpy.net##.img-ads
+ygpy.net##.re-text
+ygpy.net##.warning
 zb201.info##.layer
 zb202.xyz##.layer
 zh.moegirl.org.cn##.2ze0f0ttceb3
