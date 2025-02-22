@@ -77,16 +77,19 @@ dictionary.cambridge.org###ad_contentslot_6
 dictionary.cambridge.org###ad_houseslot_a
 dictionary.cambridge.org###ad_houseslot_b
 dictionary.cambridge.org###ad_rightslot
+dictionary.cambridge.org###stickyslot_placeholder
 discord.com##.wrapper_faf5ab
 docs.qq.com##.desktop-ad-m
 duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
 duckduckgo.com##.js-atb-banner
 duckduckgo.com##.mobile-homepage_footer__ccWRR
 en.jrants.com##.addtoany_share_save_container
+feed-and-grow-fish.fandom.com##.notifications-box
 free01.xyz##img[src="2.jpg"]
 gemini.google.com##.capabilities-disclaimer
 gemini.google.com##.get-app-banner
 gemini.google.com##.gmat-caption
+glitchtale.fandom.com##.notifications-box
 greasyfork.org##.qmsg-shadow-container
 history.ifeng.com##.index_bottom_box_CCgoj
 imgur.com##.SeeImgurOIA-container
@@ -202,6 +205,7 @@ outlook.live.com##.wOYnU
 pan.quark.cn##.CommonHeaderBar--detail-header-bar--N92gJSL
 pan.quark.cn##.h5-share-banner
 pastebin.com##.popup-container
+pastebin.com##div[style="padding-bottom:10px; padding-top:10px;"]
 pastebin.com##div[style="padding-bottom: 10px; padding-top: 10px; user-select: auto;"]
 pastebin.com##div[style="padding-bottom: 20px; padding-top: 20px; user-select: auto;"]
 plat-miniapp.zuoyebang.com##.banner
@@ -218,6 +222,7 @@ seostudio.tools##.floating-chat-kofi-popup-iframe-notice-mobi
 seostudio.tools###kofi-widget-overlay-b191573e-43b4-42cf-8bf6-f871b072f209-kofi-popup-iframe-mobi
 seostudio.tools###notification
 shimo.im##.cg-action-sheet--option__disabled
+shimo.im##.cg-banner
 shimo.im##.cg-launch-app-button
 space.bilibili.com##.auth-section
 space.bilibili.com##.bili-dyn-content__orig__additional
@@ -248,6 +253,8 @@ tieba.baidu.com##._3839kw3
 tieba.baidu.com##.af_head_gamelink
 tieba.baidu.com##.app_download_box
 tieba.baidu.com##.c-container ec-xuzhang
+tieba.baidu.com##.footer
+tieba.baidu.com##.gift-goin
 tieba.baidu.com##.post_head_official
 tieba.baidu.com##.post-foot-send-gift-btn j-post-send-gift
 tieba.baidu.com##.r-top-sec
@@ -305,6 +312,7 @@ www.123pan.com##.baidu-banner-container
 www.123pan.com##.bottom_adv_guide
 www.123pan.com##.bottom_banner_guide
 www.123pan.com##.btn_reward
+www.123pan.com##.duplicate-clean
 www.123pan.com##.file-adv-cotainer
 www.123pan.com##.file-adv-type
 www.123pan.com##.file-content
@@ -349,6 +357,7 @@ www.bilibili.com##.bili-live-card
 www.bilibili.com##.bili-video-card__wrap __scale-wrap
 www.bilibili.com##.bpx-player-ending-functions-electric
 www.bilibili.com##.bpx-player-qoeFeedback
+www.bilibili.com##.default-entry
 www.bilibili.com##.dropdown-top-right
 www.bilibili.com##.floor-single-card
 www.bilibili.com##.honor
@@ -417,9 +426,11 @@ www.kookapp.cn##.kook-tootip
 www.kookapp.cn##.text-room-tip-list
 www.lanzn.com##.mdo
 www.mcnav.net##.59826la2nsue
+www.media.xinhuamm.net##.guide-box
 www.mediafire.com##.Avast
 www.mediafire.com##.lifetime-promo
 www.mediafire.com##.TurboDL-toggle-box
+www.mediafire.com##.upsell-ab-promo
 www.mediafire.com###footer
 www.mediafire.com###non-dl-content
 www.minecraft.net##.modal-backdrop
@@ -435,6 +446,7 @@ www.qiuwenbaike.cn##.citizen-sitenotice-container
 www.qiuwenbaike.cn###footer-info-trademark-notice
 www.reddit.com###t3_1egei8p
 www.reddit.com###t3_1ffroq6
+www.tumblr.com##.y8Hml
 www.woshipm.com###mob-btn
 www.yystv.cn##.mobile-tip-bottom
 www.zdic.net##.google-auto-placed
