@@ -84,6 +84,7 @@ duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
 duckduckgo.com##.js-atb-banner
 duckduckgo.com##.mobile-homepage_footer__ccWRR
 en.jrants.com##.addtoany_share_save_container
+en.jrants.com##.code-block-13
 feed-and-grow-fish.fandom.com##.notifications-box
 free01.xyz##img[src="2.jpg"]
 gemini.google.com##.capabilities-disclaimer
@@ -136,7 +137,9 @@ m.baidu.com##div[data-module="rec:undefined-undefined"]
 m.doc88.com##.zbox-popup
 m.doc88.com##.zbox-popup-backdrop
 m.douban.com##.nav-btns
+m.douban.com##.nav-open-app
 m.douban.com##.talion-nav-footer
+m.douban.com##div[style="position: fixed; top: 0px; overflow: hidden; z-index: 2147483647; background-color: rgba(0, 0, 0, 0.5); height: 110%;"]
 m.dxy.com##.header-download-banner
 m.koolearn.com##.adv-module1
 m.koolearn.com##.adv-module2-wrap
@@ -184,6 +187,7 @@ mp.weixin.qq.com###js_network_msg_wrp
 mzh.moegirl.org.cn##.9t7osxcwyry7
 mzh.moegirl.org.cn##.__button-1c6bqbn-dfltmp
 mzh.moegirl.org.cn##.__button-1c6bqbn-dlmmp
+mzh.moegirl.org.cn##.__button-light-1379ga8-dfltmp
 mzh.moegirl.org.cn##.__button-light-1379ga8-dlmmp
 mzh.moegirl.org.cn##.n-button--medium-type
 mzh.moegirl.org.cn##.n-button--primary-type
@@ -350,6 +354,8 @@ www.apkmirror.com###ai_widget-2
 www.apkmirror.com###ai_widget-3
 www.baidu.com##div[style="overflow: hidden;background: #fff;position: relative;"]
 www.baoxuexiedu.com##.fileTitle
+www.bbc.com##.bbc-13j0x7y
+www.bbc.com##.bbc-geybui
 www.bilibili.com##.ad-report video-card-ad-small
 www.bilibili.com##.adblock-tips
 www.bilibili.com##.bili-header__channel
@@ -398,6 +404,7 @@ www.bing.com##.bnp_container
 www.bing.com##.usrlc_bpc
 www.bing.com###b_footer
 www.bing.com###b_pag_sh_btn_container
+www.bing.com###sa_fbb
 www.bing.com###sacs_win
 www.bnext.com.tw###aaabar
 www.deepl.com##.z-40
@@ -428,6 +435,7 @@ www.mcnav.net##.59826la2nsue
 www.media.xinhuamm.net##.guide-box
 www.mediafire.com##.Avast
 www.mediafire.com##.lifetime-promo
+www.mediafire.com##.MFUltra
 www.mediafire.com##.TurboDL-toggle-box
 www.mediafire.com##.upsell-ab-promo
 www.mediafire.com###footer
@@ -463,6 +471,7 @@ www.zhihu.com##.HotQuestions
 www.zhihu.com##.KfeCollection-VipRecommendCard
 www.zhihu.com##.OpenInAppButton
 www.zhihu.com##.RichContent-actions
+x.com##.r-3cgu77
 xcnhbbyfwoqq.feishu.cn##.global-like-wrap
 xcnhbbyfwoqq.feishu.cn##.gpf-biz-anonymous-login-bottom-bar-content
 xcnhbbyfwoqq.feishu.cn##.ud__button--round
@@ -471,10 +480,14 @@ xw.qq.com##.jsx-3636217773 gohome nologo
 yandex.com##.eVL6YTUDHRQTaaOFtuQ9HaaC0-Incut
 yandex.com##.huatYa0ZFNOGhZOXaqhogGviP-Incut
 yandex.com##.images-viewer-content2__container
+ygpy.net##.gg-container
 ygpy.net##.gg-text
+ygpy.net##.home-features-before-ad
 ygpy.net##.img-ads
 ygpy.net##.re-text
 ygpy.net##.warning
+yuanbao.tencent.com##.agent-dialogue__content-copyright
+yuanbao.tencent.com##.yb-common-nav
 zb201.info##.layer
 zb202.xyz##.layer
 zh.moegirl.org.cn##.2ze0f0ttceb3
