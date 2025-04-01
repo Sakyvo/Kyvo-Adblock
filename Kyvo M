@@ -39,6 +39,8 @@ blog.dingtone.me##.wp-block-button__link
 blog.dingtone.me###rg-book
 bypass.vip##main>section>p
 chat.chatgptplus.cn##.text-token-text-secondary
+chat.deepseek.com##._0fcaa63
+chat.deepseek.com##._3a24007
 chat.deepseek.com##.a1e75851
 chat.deepseek.com##.a24007f4
 chat.deepseek.com##.fcaa63f8
@@ -78,6 +80,7 @@ dictionary.cambridge.org###ad_houseslot_a
 dictionary.cambridge.org###ad_houseslot_b
 dictionary.cambridge.org###ad_rightslot
 dictionary.cambridge.org###stickyslot_placeholder
+discord.com##.wrapper__44df5
 discord.com##.wrapper_faf5ab
 docs.qq.com##.desktop-ad-m
 duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
@@ -92,6 +95,7 @@ gemini.google.com##.get-app-banner
 gemini.google.com##.gmat-caption
 glitchtale.fandom.com##.notifications-box
 greasyfork.org##.qmsg-shadow-container
+h5hosting-drcn.dbankcdn.cn##.main_content
 history.ifeng.com##.index_bottom_box_CCgoj
 imgur.com##.SeeImgurOIA-container
 imgur.com##.SeeImgurOIA-overlay
@@ -126,6 +130,7 @@ live.bilibili.com##.system-msg
 live.bilibili.com##.task-box
 live.bilibili.com##.top3-notice
 live.bilibili.com##.wealth-medal-ctnr
+m24.tesoon.com##._floatingAds_1us15_1
 m.163.com##.js-topNav-comment
 m.163.com##.s-search
 m.163.com##.s-text
@@ -145,6 +150,8 @@ m.koolearn.com##.adv-module1
 m.koolearn.com##.adv-module2-wrap
 m.koolearn.com##.top-ad
 m.koolearn.com##p[style="text-align:center"]
+m.siliconflow.com##.adm-capsule-tabs
+m.siliconflow.com##.text-xs
 m.sohu.com###CallAppContainer
 m.soundcloud.com##.FooterStoreSection_FooterStoreSection__30zge
 m.soundcloud.com##.Header_RightContainer__1VyFh
@@ -175,6 +182,7 @@ metaso.cn##.css-6d72hc
 metaso.cn##.css-8oh5ra
 metaso.cn##.css-169hiok
 metaso.cn##.css-1716r6k
+metaso.cn##.css-tixiov
 metaso.cn##.Search_recommendedQuestionList__8L2Xe
 metaso.cn##.search-model-tip
 metaso.cn##.search-tip-label-container
@@ -215,6 +223,8 @@ pastebin.com##div[style="padding-bottom: 20px; padding-top: 20px; user-select: a
 plat-miniapp.zuoyebang.com##.banner
 plat-miniapp.zuoyebang.com##.take-bar-wrapper
 poki.com##.buttonReset
+poki.com##.J6tqxYc6fpBoHrC5vr0W
+poki.com##.rkUs26I46Zr_gd6A9Pjq
 poki.com##button[type="button"]
 post.m.smzdm.com##.logo-download
 post.m.smzdm.com##.wrapper
@@ -304,6 +314,8 @@ wk.baidu.com##.van-swipe-item
 wk.baidu.com##.wk-student-defense
 wk.baidu.com##div[page-data="[object Object],[object Object],[object Object],[object Object]"]
 workupload.com##.ad-label
+wwe.lanzouw.com##.jingshi
+wwe.lanzouw.com###save
 wwl.lanzouj.com##.jingshi
 www.36kr.com##.article-top-swiper-goapp
 www.52pojie.cn##.ptn
@@ -434,6 +446,7 @@ www.lanzn.com##.mdo
 www.mcnav.net##.59826la2nsue
 www.media.xinhuamm.net##.guide-box
 www.mediafire.com##.Avast
+www.mediafire.com##.DlBtnUltraUpsell
 www.mediafire.com##.lifetime-promo
 www.mediafire.com##.MFUltra
 www.mediafire.com##.TurboDL-toggle-box
