@@ -1,3 +1,5 @@
+545c.com##.alert-info
+545c.com##.btn-group
 ! Title: Kyvo M
 account.bilibili.com##.red-point
 account.proton.me##.icon-size-5
@@ -337,6 +339,7 @@ www.123pan.com##.mfy-tips-wrap
 www.123pan.com##.share-form-tooltip
 www.123pan.com##.sider-member-btn
 www.123pan.com##.special-menu-item-container
+www.123pan.com##.switch-box
 www.123pan.com##.uppy-Dashboard-slowSpeed-banner
 www.123pan.com##div[style="position: relative; width: 100%; height: 44px; background: rgb(89, 125, 252); text-align: center; color: rgb(255, 255, 255); font-size: 14px; line-height: 44px; font-weight: bold;"]
 www.123pan.com##span[style="cursor: pointer;"]
@@ -462,6 +465,7 @@ www.msn.cn##.consumption-river
 www.olevod.com##.hidden_mb
 www.perplexity.ai##.absolute>div
 www.pornhub.com##.adsbytrafficjunky
+www.pornhub.com##.modelShorties__all
 www.qiuwenbaike.cn##.citizen-sitenotice-container
 www.qiuwenbaike.cn###footer-info-trademark-notice
 www.reddit.com###t3_1egei8p
@@ -499,6 +503,7 @@ ygpy.net##.home-features-before-ad
 ygpy.net##.img-ads
 ygpy.net##.re-text
 ygpy.net##.warning
+yuanbao.tencent.com##.agent-chat__list__new-chat
 yuanbao.tencent.com##.agent-dialogue__content-copyright
 yuanbao.tencent.com##.yb-common-nav
 zb201.info##.layer
