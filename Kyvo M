@@ -11,6 +11,7 @@ apkcombo.app##div[style="margin-bottom: -15px; margin-top: 15px; user-select: au
 apkcombo.com##.ad-pss-bottom-right
 apkcombo.com##.apkcombo_mobile_300x250_middle
 apkcombo.com##.apkcombo_mobile_300x250_top
+apkcombo.com###ads-top
 apkpure.com##.debut-game
 apkpure.com##.js-ad-slot
 apkpure.com###withdraw-entrance
@@ -37,6 +38,7 @@ blog.csdn.net##.openApp
 blog.csdn.net##.subject-talk-box
 blog.dingtone.me##.wp-block-button__link
 blog.dingtone.me###rg-book
+bypass.link##.nab_wrapper
 bypass.vip##main>section>p
 chat.chatgptplus.cn##.text-token-text-secondary
 chat.deepseek.com##._0fcaa63
@@ -173,6 +175,7 @@ mail.google.com###speedbump
 mail.proton.me##.bg-promotion
 mail.proton.me##.p-4
 mail.proton.me##.topnav-list
+manus.im##.left-0
 mbook.kongfz.com##.open-miniappdialog
 mega.nz##.banner-rack
 mega.nz##.mega-bottom-bar
@@ -286,6 +289,7 @@ tieba.baidu.com###celebrity
 tieba.baidu.com###right_wrap
 tieba.baidu.com###spage_game_tab_wrapper
 tieba.baidu.com###spage-tbshare-container
+tieba.baidu.com##div[style="height: 390px; user-select: auto;"]
 translate.google.com##.VjFXz
 url95.ctfile.com##.alert-info
 url95.ctfile.com##.btn-group
@@ -338,6 +342,7 @@ www.123pan.com##.file-adv-type
 www.123pan.com##.file-content
 www.123pan.com##.mfy-main-layout__head
 www.123pan.com##.mfy-tips-wrap
+www.123pan.com##.share-form-special-line
 www.123pan.com##.share-form-tooltip
 www.123pan.com##.sider-member-btn
 www.123pan.com##.special-menu-item-container
@@ -423,6 +428,7 @@ www.bing.com###b_footer
 www.bing.com###b_pag_sh_btn_container
 www.bing.com###sa_fbb
 www.bing.com###sacs_win
+www.bing.com##div[style="display: block;"]
 www.bnext.com.tw###aaabar
 www.deepl.com##.z-40
 www.deviantart.com##._2F0x
@@ -440,6 +446,8 @@ www.ghxi.com##.ad_single_2
 www.ghxi.com##.footer
 www.ghxi.com##.item-sticky
 www.ghxi.com###gh-container
+www.google.com##.AuVD
+www.google.com##.cUnQKe
 www.google.com###sfooter
 www.gushicimingju.com###recommend
 www.kdocs.cn##.open-wps-button
@@ -473,6 +481,7 @@ www.qiuwenbaike.cn###footer-info-trademark-notice
 www.reddit.com###t3_1egei8p
 www.reddit.com###t3_1ffroq6
 www.tumblr.com##.y8Hml
+www.userscript.zone##.top
 www.woshipm.com###mob-btn
 www.yystv.cn##.mobile-tip-bottom
 www.zdic.net##.google-auto-placed
