@@ -12,6 +12,7 @@ apkcombo.com##.ad-pss-bottom-right
 apkcombo.com##.apkcombo_mobile_300x250_middle
 apkcombo.com##.apkcombo_mobile_300x250_top
 apkcombo.com###ads-top
+apkcombo.com##div[style="margin-bottom: 10px; max-height: 260px; min-height: 260px; overflow: hidden; user-select: auto;"]
 apkpure.com##.debut-game
 apkpure.com##.js-ad-slot
 apkpure.com###withdraw-entrance
@@ -365,6 +366,7 @@ www.360doc.cn##footer[data-sudaclick="footer"]
 www.4399.com###Anti_mask
 www.4399.com###Anti_open
 www.123684.com##.appHeader
+www.123684.com##.cleanNetText
 www.apkmirror.com##.advertisement-text
 www.apkmirror.com##.ains-3
 www.apkmirror.com##.ains-24
@@ -455,6 +457,7 @@ www.kookapp.cn##.banner-box
 www.kookapp.cn##.kook-message-header-alert
 www.kookapp.cn##.kook-tootip
 www.kookapp.cn##.text-room-tip-list
+www.lanzn.com##.jingshi
 www.lanzn.com##.mdo
 www.mcnav.net##.59826la2nsue
 www.media.xinhuamm.net##.guide-box
