@@ -64,6 +64,7 @@ cn.bing.com##.b_pag
 cn.bing.com###b_footer
 cn.bing.com###b-scopeListItem-bingpages
 cn.bing.com###bnp_rich_div
+cn.bing.com###sa_fbb
 cn.bing.com##a[href^="/bp/verify"]
 cn.bing.com##div[style="display: block;"]
 ctfile.qinlili.bid###ads
@@ -146,8 +147,10 @@ m.baidu.com##.diversion-waterfall-b
 m.baidu.com##.sfc-video-page-info-announce
 m.baidu.com##.sfc-video-page-info-feedback
 m.baidu.com##div[data-module="rec:undefined-undefined"]
+m.doc88.com##.marginTop-height
 m.doc88.com##.zbox-popup
 m.doc88.com##.zbox-popup-backdrop
+m.doc88.com###readerNav
 m.douban.com##.nav-btns
 m.douban.com##.nav-open-app
 m.douban.com##.talion-nav-footer
@@ -165,6 +168,7 @@ m.soundcloud.com##.Header_RightContainer__1VyFh
 m.soundcloud.com##.Me_CtaContainer__mg8ss
 m.thepaper.cn##.index_footer_banner__Mcr_R
 m.thepaper.cn###moblink_header
+m.twitch.tv##.dOUZwO
 m.twitch.tv##.gIoiAx
 m.youdao.com##.content
 m.youtube.com##.player-controls-background-action-items
@@ -296,6 +300,8 @@ url95.ctfile.com##.alert-info
 url95.ctfile.com##.btn-group
 url95.ctfile.com##.card-header
 url95.ctfile.com##.my-3
+user.guancha.cn##.g_button
+user.guancha.cn##.g_footer
 v.qq.com##.quick_link
 view.inews.qq.com##.bottom-bar_buttonWrap__NXBe-
 wap.mail.qq.com##.download_container
@@ -387,6 +393,7 @@ www.bilibili.com##.bili-live-card
 www.bilibili.com##.bili-video-card__wrap __scale-wrap
 www.bilibili.com##.bpx-player-ending-functions-electric
 www.bilibili.com##.bpx-player-qoeFeedback
+www.bilibili.com##.bpx-player-toast-wrap
 www.bilibili.com##.default-entry
 www.bilibili.com##.dropdown-top-right
 www.bilibili.com##.floor-single-card
@@ -485,6 +492,12 @@ www.reddit.com###t3_1egei8p
 www.reddit.com###t3_1ffroq6
 www.tumblr.com##.y8Hml
 www.userscript.zone##.top
+www.wikiwand.com##.extensions_wrapper__bELIb
+www.wikiwand.com##.footer_wrapper__eMIDC
+www.wikiwand.com##.wrapper_atf__E8xY8
+www.wikiwand.com##.wrapper_box__eMVrW
+www.wikiwand.com##.wrapper_container__51TyV
+www.wikiwand.com##.wrapper_ob__27KzO
 www.woshipm.com###mob-btn
 www.yystv.cn##.mobile-tip-bottom
 www.zdic.net##.google-auto-placed
