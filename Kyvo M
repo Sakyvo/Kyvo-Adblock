@@ -1,3 +1,4 @@
+545c.com##.alert-info
 ! Title: Kyvo M
 account.bilibili.com##.red-point
 account.proton.me##.icon-size-5
@@ -48,6 +49,7 @@ chat.deepseek.com##._8ac543b
 chat.deepseek.com##.a1e75851
 chat.deepseek.com##.a24007f4
 chat.deepseek.com##.fcaa63f8
+chatgpt.com##.bg-[#F1F1FB]
 chatgpt.com##.lg:bottom-0
 chatgpt.com##.md:pt-0
 chatgpt.com##.md:px-[60px]>span
@@ -64,6 +66,7 @@ cn.bing.com##.b_pag
 cn.bing.com###b_footer
 cn.bing.com###b-scopeListItem-bingpages
 cn.bing.com###bnp_rich_div
+cn.bing.com###inline_rs
 cn.bing.com###sa_fbb
 cn.bing.com##a[href^="/bp/verify"]
 cn.bing.com##div[style="display: block;"]
@@ -131,6 +134,8 @@ live.bilibili.com##.flip-view
 live.bilibili.com##.flip-view-image
 live.bilibili.com##.gift-planet-entry
 live.bilibili.com##.left-part-ctnr
+live.bilibili.com##.link-footer
+live.bilibili.com##.no-webp
 live.bilibili.com##.notice-item
 live.bilibili.com##.pilot
 live.bilibili.com##.rank-icon
@@ -169,6 +174,7 @@ m.soundcloud.com##.Me_CtaContainer__mg8ss
 m.thepaper.cn##.index_footer_banner__Mcr_R
 m.thepaper.cn###moblink_header
 m.twitch.tv##.dOUZwO
+m.twitch.tv##.flyQLs
 m.twitch.tv##.gIoiAx
 m.youdao.com##.content
 m.youtube.com##.player-controls-background-action-items
@@ -281,6 +287,8 @@ tieba.baidu.com##.app_download_box
 tieba.baidu.com##.c-container ec-xuzhang
 tieba.baidu.com##.footer
 tieba.baidu.com##.gift-goin
+tieba.baidu.com##.head_ad_pop
+tieba.baidu.com##.ihome-aside-gift-center
 tieba.baidu.com##.post_head_official
 tieba.baidu.com##.post-foot-send-gift-btn j-post-send-gift
 tieba.baidu.com##.r-top-sec
@@ -290,6 +298,7 @@ tieba.baidu.com##.top-sec
 tieba.baidu.com##.u_bdhome
 tieba.baidu.com##.u_joinvip_wrap vip_red j_btn_getmember
 tieba.baidu.com##.u_member
+tieba.baidu.com##.user-visit-card-marriage-propose
 tieba.baidu.com###celebrity
 tieba.baidu.com###right_wrap
 tieba.baidu.com###spage_game_tab_wrapper
@@ -439,6 +448,7 @@ www.bing.com###sa_fbb
 www.bing.com###sacs_win
 www.bing.com##div[style="display: block;"]
 www.bnext.com.tw###aaabar
+www.deepl.com##.dl_top_element--wide
 www.deepl.com##.z-40
 www.deviantart.com##._2F0x
 www.deviantart.com##.f-14-reg
@@ -481,6 +491,8 @@ www.minecraft.net###netease-promotion-modal
 www.mklab.cn##.ads_a
 www.mklab.cn##.el-overlay
 www.mklab.cn##.right_nav
+www.mklab.cn##div[style="max-width: 260px; position: absolute; top: 45px; right: 5px; z-index: 1000; opacity: 0.8;"]
+www.mklab.cn##div[style="max-width: 300px; position: absolute; top: 5px; right: 5px; z-index: 1000;"]
 www.msn.cn##.consumption-river
 www.olevod.com##.hidden_mb
 www.perplexity.ai##.absolute>div
@@ -531,6 +543,7 @@ ygpy.net##.home-features-before-ad
 ygpy.net##.img-ads
 ygpy.net##.re-text
 ygpy.net##.warning
+yinghuadm.cn##.tips-box
 yuanbao.tencent.com##.agent-chat__list__new-chat
 yuanbao.tencent.com##.agent-dialogue__content-copyright
 yuanbao.tencent.com##.yb-common-nav
