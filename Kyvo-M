@@ -106,9 +106,6 @@ gemini.google.com##.input-gradient>hallucination-disclaimer
 glitchtale.fandom.com##.notifications-box
 greasyfork.org##.qmsg-shadow-container
 h5hosting-drcn.dbankcdn.cn##.main_content
-haijiao.com##.addbox
-haijiao.com##.van-dialog
-haijiao.com##.van-overlay
 history.ifeng.com##.index_bottom_box_CCgoj
 imgur.com##.SeeImgurOIA-container
 imgur.com##.SeeImgurOIA-overlay
@@ -162,6 +159,7 @@ m.douban.com##.nav-btns
 m.douban.com##.nav-open-app
 m.douban.com##.talion-nav-footer
 m.douban.com##div[style="position: fixed; top: 0px; overflow: hidden; z-index: 2147483647; background-color: rgba(0, 0, 0, 0.5); height: 110%;"]
+m.douyin.com##.user-bottom-btn
 m.dxy.com##.header-download-banner
 m.koolearn.com##.adv-module1
 m.koolearn.com##.adv-module2-wrap
@@ -258,6 +256,7 @@ seostudio.tools###notification
 shimo.im##.cg-action-sheet--option__disabled
 shimo.im##.cg-banner
 shimo.im##.cg-launch-app-button
+shimo.im##.mobile-alert-modal-mask
 space.bilibili.com##.auth-section
 space.bilibili.com##.bili-dyn-content__orig__additional
 space.bilibili.com##.elec
@@ -301,6 +300,7 @@ tieba.baidu.com##.u_bdhome
 tieba.baidu.com##.u_joinvip_wrap vip_red j_btn_getmember
 tieba.baidu.com##.u_member
 tieba.baidu.com##.user-visit-card-marriage-propose
+tieba.baidu.com##.ylh-ad-close
 tieba.baidu.com###celebrity
 tieba.baidu.com###right_wrap
 tieba.baidu.com###spage_game_tab_wrapper
@@ -383,6 +383,7 @@ www.360doc.cn###CopyBtn
 www.360doc.cn##div[style="height:72px;overflow:hidden;"]
 www.360doc.cn##div[style="height: 72px; overflow: hidden; user-select: auto;"]
 www.360doc.cn##div[style="padding-top: 10px;"]
+www.360doc.cn##div[style="position: fixed; top: 0px; overflow: hidden; z-index: 2147483647; background-color: rgba(0, 0, 0, 0.5); height: 110%; user-select: auto;"]
 www.360doc.cn##footer[data-sudaclick="footer"]
 www.4399.com###Anti_mask
 www.4399.com###Anti_open
@@ -483,7 +484,6 @@ www.kookapp.cn##.kook-tootip
 www.kookapp.cn##.text-room-tip-list
 www.lanzn.com##.jingshi
 www.lanzn.com##.mdo
-www.lanzn.com###save
 www.mcnav.net##.59826la2nsue
 www.media.xinhuamm.net##.guide-box
 www.mediafire.com##.Avast
