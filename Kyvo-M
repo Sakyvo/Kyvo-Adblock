@@ -130,6 +130,7 @@ lanzoux.com##.jingshi
 lanzoux.com##.pc
 lanzoux.com##.top
 lingojam.com##.adsense-area
+linux.do###global-notice-alert-global-notice
 live.bilibili.com##.arrow-left
 live.bilibili.com##.arrow-right
 live.bilibili.com##.common-danmuku-msg
@@ -182,6 +183,7 @@ m.twitch.tv##.dOUZwO
 m.twitch.tv##.flyQLs
 m.twitch.tv##.gIoiAx
 m.youdao.com##.content
+m.youdao.com##.license
 m.youtube.com##.player-controls-background-action-items
 m.youtube.com##.YtwPlayerAutonavToggleHost
 m.zuowenwang.net##.af_itme
@@ -227,6 +229,7 @@ mzh.moegirl.org.cn##.vrzgmupk5q4i
 mzh.moegirl.org.cn##.vue3-marquee
 mzh.moegirl.org.cn##.z1v22t1rrjkf
 mzh.moegirl.org.cn###moe-open-in-app
+namemc.com##.order-3
 news.sina.cn##.ldy_art_bottom_button_box
 ngabbs.com##.headline
 noodlemagazine.com##.jw-icon-fullscreen
@@ -515,6 +518,7 @@ www.qiuwenbaike.cn##.citizen-sitenotice-container
 www.qiuwenbaike.cn###footer-info-trademark-notice
 www.reddit.com###t3_1egei8p
 www.reddit.com###t3_1ffroq6
+www.reddit.com###xpromo-bottom-sheet
 www.tumblr.com##.y8Hml
 www.userscript.zone##.top
 www.wikiwand.com##.extensions_wrapper__bELIb
@@ -592,11 +596,7 @@ zhuanlan.zhihu.com##.KfeCollection-VipRecommendCard
 zhuanlan.zhihu.com##.oia-action-bar
 zhuanlan.zhihu.com##.OpenInAppButton
 zhuanlan.zhihu.com##.RichContent-actions
-zhuanlan.zhihu.com##.ZDI--FourPointedStar16blog.csdn.net##.feed-Sign-weixin
-blog.csdn.net##.openApp
-blog.csdn.net##.subject-talk-box
-blog.dingtone.me##.wp-block-button__link
-blog.dingtone.me###rg-book
+zhuanlan.zhihu.com##.ZDI--FourPointedStar16blog.dingtone.me###rg-book
 bypass.link##.nab_wrapper
 bypass.vip##main>section>p
 chat.chatgptplus.cn##.text-token-text-secondary
