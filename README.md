@@ -1,3 +1,5 @@
-personal adblock rules
+# <center>personal adblock rules</center>
 
-subscribe link: https://raw.githubusercontent.com/Sakyvo/Kyvo-Adblock/refs/heads/main/Kyvo-M
+| original | mirror |
+| :--: | :--: |
+| [hold to copy](https://raw.githubusercontent.com/Sakyvo/Kyvo-Adblock/refs/heads/main/Kyvo-M) | [hold to copy](https://raw.gitmirror.com/Sakyvo/Kyvo-Adblock/refs/heads/main/Kyvo-M)
