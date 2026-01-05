@@ -1,5 +1,5 @@
 ! Title: Kyvo M
-@@||www.423down.com##article > div:last-child @@||www.423down.com##article + .archive-list
+|https://www.dalvdm.cc/template/dsn2/static/mp3/15.mp3
 a2zapk.io###modalpop
 account.bilibili.com##.red-point
 account.proton.me##.icon-size-5
@@ -105,6 +105,8 @@ dictionary.cambridge.org###ad_houseslot_a
 dictionary.cambridge.org###ad_houseslot_b
 dictionary.cambridge.org###ad_rightslot
 dictionary.cambridge.org###stickyslot_placeholder
+discord.com#@#._6131ab3dbe0affed-notice
+discord.com##._0b69f200eb3bf411-upsellContainerFloating
 discord.com##._44df51b030bd5ece-wrapper
 discord.com##.wrapper__44df5
 discord.com##.wrapper_faf5ab
@@ -131,6 +133,7 @@ idcflare.com###global-notice-alert-global-notice
 imgur.com##.SeeImgurOIA-container
 imgur.com##.SeeImgurOIA-overlay
 imgur.com##.SmartAppBanner-wrapper
+ipcheck.ing###sponsor-most-login
 iplark.com##.HAosPzCLaDDrZAZpKd
 jingyan.baidu.com##.a-pd-lr-12
 jingyan.baidu.com##.asp-mt-2408
@@ -213,6 +216,7 @@ mail.google.com###speedbump
 mail.proton.me##.bg-promotion
 mail.proton.me##.p-4
 mail.proton.me##.topnav-list
+manga.bilibili.com##.download-app-box
 manus.im##.left-0
 mbook.kongfz.com##.open-miniappdialog
 mega.nz##.banner-rack
@@ -252,6 +256,9 @@ mzh.moegirl.org.cn##.z1v22t1rrjkf
 mzh.moegirl.org.cn###moe-open-in-app
 namemc.com##.my-3
 namemc.com##.order-3
+news.sina.cn##.ft_cm
+news.sina.cn##.hd_nav
+news.sina.cn##.hot_list
 news.sina.cn##.ldy_art_bottom_button_box
 ngabbs.com##.headline
 noodlemagazine.com##.jw-icon-fullscreen
@@ -322,6 +329,7 @@ tieba.baidu.com##._3839kw3
 tieba.baidu.com##.af_head_gamelink
 tieba.baidu.com##.app_download_box
 tieba.baidu.com##.c-container ec-xuzhang
+tieba.baidu.com##.dialog_block
 tieba.baidu.com##.footer
 tieba.baidu.com##.gift-goin
 tieba.baidu.com##.head_ad_pop
@@ -425,6 +433,7 @@ www.360doc.cn##div[style="height: 72px; overflow: hidden; user-select: auto;"]
 www.360doc.cn##div[style="padding-top: 10px;"]
 www.360doc.cn##div[style="position: fixed; top: 0px; overflow: hidden; z-index: 2147483647; background-color: rgba(0, 0, 0, 0.5); height: 110%; user-select: auto;"]
 www.360doc.cn##footer[data-sudaclick="footer"]
+www.423down.com#@#.article > div:last-child www.423down.com#@#.article + .archive-list
 www.4399.com###Anti_mask
 www.4399.com###Anti_open
 www.123684.com##.appHeader
@@ -502,6 +511,7 @@ www.deepl.com##.homeExperience_homeExperience__ixC9_
 www.deepl.com##.homeExperience-module--homeExperience--904c9
 www.deepl.com##.z-20
 www.deepl.com##.z-40
+www.deepl.com###juu1jthbjue5juu1jthbjtlcjuu5jufcjtk4juu2jtk1jtg4juu1jui3jue1juu0jujejtldjuu3jtlbjtg0juu0jujbjujbjuu1jui3jue1juu2jtk5jujbjuu4jtgzjujejuu4jue3juezjuu1jtg2juizjuu2jtk2jui5juu2juexjtg4
 www.deviantart.com##._2F0x
 www.deviantart.com##.f-14-reg
 www.deviantart.com##.OFdyZ
@@ -554,7 +564,11 @@ www.msn.cn##.consumption-river
 www.notion.so##.notion-ai-button
 www.notion.so##.notion-ai-button>div
 www.olevod.com##.hidden_mb
-www.perplexity.ai##div[style="height: auto;"]
+www.perplexity.ai#@#.bottom-0
+www.perplexity.ai#@#.gap-x-sm
+www.perplexity.ai#@#.overflow-hidden
+www.perplexity.ai##.bg-super
+www.perplexity.ai##.font-display
 www.pornhub.com##.adsbytrafficjunky
 www.pornhub.com##.mgp_overlayText
 www.pornhub.com##.modelShorties__all
@@ -645,8 +659,7 @@ zhuanlan.zhihu.com##.KfeCollection-VipRecommendCard
 zhuanlan.zhihu.com##.oia-action-bar
 zhuanlan.zhihu.com##.OpenInAppButton
 zhuanlan.zhihu.com##.RichContent-actions
+zhuanlan.zhihu.com##.ZDI--FourPointedStar16
 zhuanlan.zhihu.com##.ZDI--FourPointedStar16baike.baidu.com###J-declare
 zhuanlan.zhihu.com##.ZDI--FourPointedStar16baike.sogou.com##.footer-box
 zhuanlan.zhihu.com##.ZDI--FourPointedStar16blog.dingtone.me###rg-book
-www.perplexity.ai##.absolute>div
-zhuanlan.zhihu.com##.ZDI--FourPointedStar16
