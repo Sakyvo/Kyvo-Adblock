@@ -19,8 +19,6 @@ apkpure.com##.debut-game
 apkpure.com##.js-ad-slot
 apkpure.com###withdraw-entrance
 app.biligame.com##.app-dowload-bar
-app.chathub.gg##.bg-[#7EB8D6FF]
-app.chathub.gg##.text-balance
 baijiahao.baidu.com##.followSuperInner
 baijiahao.baidu.com##.infinite-scroll-component__outerdiv
 baijiahao.baidu.com##.infoContainer
@@ -51,7 +49,6 @@ blog.dingtone.me##.wp-block-button__link
 blog.dingtone.me###rg-book
 bypass.link##.nab_wrapper
 bypass.vip##main>section>p
-chat.chatgptplus.cn##.text-token-text-secondary
 chat.deepseek.com##._0fcaa63
 chat.deepseek.com##._3a24007
 chat.deepseek.com##._8ac543b
@@ -111,6 +108,9 @@ discord.com##._44df51b030bd5ece-wrapper
 discord.com##.wrapper__44df5
 discord.com##.wrapper_faf5ab
 docs.qq.com##.desktop-ad-m
+dr.miromind.ai##.text-center
+dr.miromind.ai##.text-tertiary
+duck.ai##.pEpgAp_uV2lfaCYzOoNa
 duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
 duckduckgo.com##.js-atb-banner
 duckduckgo.com##.mobile-homepage_footer__ccWRR
@@ -123,6 +123,7 @@ gemini.google.com##.condensed-prompt-card-container
 gemini.google.com##.get-app-banner
 gemini.google.com##.gmat-caption
 gemini.google.com##.input-gradient>hallucination-disclaimer
+gemini.google.com##.share-viewer_footer
 github.com##.NewConversation-module__footer--HIKDz
 glitchtale.fandom.com##.notifications-box
 greasyfork.org##.qmsg-shadow-container
@@ -134,6 +135,7 @@ imgur.com##.SeeImgurOIA-container
 imgur.com##.SeeImgurOIA-overlay
 imgur.com##.SmartAppBanner-wrapper
 ipcheck.ing###sponsor-most-login
+ipcheck.ing###sponsor-thor-data
 iplark.com##.HAosPzCLaDDrZAZpKd
 jingyan.baidu.com##.a-pd-lr-12
 jingyan.baidu.com##.asp-mt-2408
@@ -151,7 +153,6 @@ lanzoux.com##.pc
 lanzoux.com##.top
 lingojam.com##.adsense-area
 linux.do##.composer-open-plugin-outlet-container
-linux.do###dialog-holder
 linux.do###global-notice-alert-global-notice
 littleskin.cn###lsad-carousel
 live.bilibili.com##.arrow-left
@@ -256,6 +257,10 @@ mzh.moegirl.org.cn##.z1v22t1rrjkf
 mzh.moegirl.org.cn###moe-open-in-app
 namemc.com##.my-3
 namemc.com##.order-3
+namemc.com###pl_header_container
+namemc.com###pl_mobile_incontent_1_container
+namemc.com###pl_primis_video_placeholder_container
+namemc.com##div[style="max-width: 530px; margin: auto; user-select: auto;"]
 news.sina.cn##.ft_cm
 news.sina.cn##.hd_nav
 news.sina.cn##.hot_list
@@ -294,6 +299,7 @@ search.bilibili.com##.red-point
 seostudio.tools##.floating-chat-kofi-popup-iframe-notice-mobi
 seostudio.tools###kofi-widget-overlay-b191573e-43b4-42cf-8bf6-f871b072f209-kofi-popup-iframe-mobi
 seostudio.tools###notification
+seostudio.tools###parallax
 share.paragames233.com###popup
 shimo.im##.cg-action-sheet--option__disabled
 shimo.im##.cg-banner
@@ -304,6 +310,7 @@ space.bilibili.com##.auth-section
 space.bilibili.com##.bili-dyn-content__orig__additional
 space.bilibili.com##.elec
 space.bilibili.com##.elec-section
+space.bilibili.com##.game
 space.bilibili.com##.game-section
 space.bilibili.com##.living-section-tips
 space.bilibili.com##.new-space-entry
@@ -451,6 +458,9 @@ www.apkmirror.com###ai_widget-2
 www.apkmirror.com###ai_widget-3
 www.baidu.com##div[style="overflow: hidden;background: #fff;position: relative;"]
 www.baoxuexiedu.com##.fileTitle
+www.base64encode.org##.ad_corner_box
+www.base64encode.org##.ad_header_box
+www.base64encode.org##.ad_right_box
 www.bbc.com##.bbc-13j0x7y
 www.bbc.com##.bbc-geybui
 www.bilibili.com##.ad-report video-card-ad-small
@@ -506,6 +516,7 @@ www.bing.com###sa_fbb
 www.bing.com###sacs_win
 www.bing.com##div[style="display: block;"]
 www.bnext.com.tw###aaabar
+www.cybermania.ws###suxcxewvremswnrzytzahzrwkxmrkulhzlroaercvqwevtyitlz
 www.deepl.com##.dl_top_element--wide
 www.deepl.com##.homeExperience_homeExperience__ixC9_
 www.deepl.com##.homeExperience-module--homeExperience--904c9
@@ -563,12 +574,15 @@ www.mklab.cn##div[style="max-width: 300px; position: absolute; top: 5px; right: 
 www.msn.cn##.consumption-river
 www.notion.so##.notion-ai-button
 www.notion.so##.notion-ai-button>div
+www.npmjs.com##._1a444dba
 www.olevod.com##.hidden_mb
 www.perplexity.ai#@#.bottom-0
 www.perplexity.ai#@#.gap-x-sm
+www.perplexity.ai#@#.ml-2
 www.perplexity.ai#@#.overflow-hidden
-www.perplexity.ai##.bg-super
+www.perplexity.ai##.animate-in
 www.perplexity.ai##.font-display
+www.perplexity.ai##.gap-x-sm
 www.pornhub.com##.adsbytrafficjunky
 www.pornhub.com##.mgp_overlayText
 www.pornhub.com##.modelShorties__all
@@ -590,6 +604,8 @@ www.wikiwand.com##.wrapper_container__51TyV
 www.wikiwand.com##.wrapper_ob__27KzO
 www.woshipm.com###mob-btn
 www.yystv.cn##.mobile-tip-bottom
+www.zaobao.com.sg##.cursor-auto
+www.zaobao.com.sg###sph_cdp_40
 www.zdic.net##.google-auto-placed
 www.zdic.net##.mpuslot_b-container
 www.zdic.net##.topslot_container
@@ -662,4 +678,4 @@ zhuanlan.zhihu.com##.RichContent-actions
 zhuanlan.zhihu.com##.ZDI--FourPointedStar16
 zhuanlan.zhihu.com##.ZDI--FourPointedStar16baike.baidu.com###J-declare
 zhuanlan.zhihu.com##.ZDI--FourPointedStar16baike.sogou.com##.footer-box
-zhuanlan.zhihu.com##.ZDI--FourPointedStar16blog.dingtone.me###rg-book
+zhuanlan.zhihu.com##.ZDI--FourPointedStar16blog.dingtone.me###rg-book]
