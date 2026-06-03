@@ -19,6 +19,7 @@ apkpure.com##.debut-game
 apkpure.com##.js-ad-slot
 apkpure.com###withdraw-entrance
 app.biligame.com##.app-dowload-bar
+arena.ai##.-bottom-5
 baijiahao.baidu.com##.followSuperInner
 baijiahao.baidu.com##.infinite-scroll-component__outerdiv
 baijiahao.baidu.com##.infoContainer
@@ -30,6 +31,7 @@ baijiahao.baidu.com###ttsGuide
 baijiahao.baidu.com###wise-invoke-interact-bar
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com##.close-image
+baike.baidu.com##.index_bottomFixAd__IyttG
 baike.baidu.com##.main-image
 baike.baidu.com##.quickNav
 baike.baidu.com###J-business-module-wrapper-top-102466
@@ -105,6 +107,7 @@ dictionary.cambridge.org###stickyslot_placeholder
 discord.com#@#._6131ab3dbe0affed-notice
 discord.com##._0b69f200eb3bf411-upsellContainerFloating
 discord.com##._44df51b030bd5ece-wrapper
+discord.com##.wrapper__0d616
 discord.com##.wrapper__44df5
 discord.com##.wrapper_faf5ab
 docs.qq.com##.desktop-ad-m
@@ -122,11 +125,15 @@ gemini.google.com##.capabilities-disclaimer
 gemini.google.com##.condensed-prompt-card-container
 gemini.google.com##.get-app-banner
 gemini.google.com##.gmat-caption
+gemini.google.com##.hallucination-disclaimer
 gemini.google.com##.input-gradient>hallucination-disclaimer
 gemini.google.com##.share-viewer_footer
 github.com##.NewConversation-module__footer--HIKDz
 glitchtale.fandom.com##.notifications-box
 greasyfork.org##.qmsg-shadow-container
+grok.868986.xyz##.fixed
+grok.868986.xyz##.upsell-small
+grok.com##.fixed
 grok.com##.upsell-small
 h5hosting-drcn.dbankcdn.cn##.main_content
 history.ifeng.com##.index_bottom_box_CCgoj
@@ -284,6 +291,7 @@ pastebin.com##div[style="padding-bottom:10px; padding-top:10px;"]
 pastebin.com##div[style="padding-bottom: 10px; padding-top: 10px; user-select: auto;"]
 pastebin.com##div[style="padding-bottom: 20px; padding-top: 20px; user-select: auto;"]
 ping0.cc##.adrow
+ping0.cc##.xxeles
 plat-miniapp.zuoyebang.com##.banner
 plat-miniapp.zuoyebang.com##.no-more
 plat-miniapp.zuoyebang.com##.take-bar-wrapper
@@ -308,6 +316,8 @@ shimo.im##.cg-banner
 shimo.im##.cg-launch-app-button
 shimo.im##.iconWrapper___1QxZq
 shimo.im##.mobile-alert-modal-mask
+soundcloud.com##.banner
+soundcloud.com##.newUploadBanner
 space.bilibili.com##.auth-section
 space.bilibili.com##.bili-dyn-content__orig__additional
 space.bilibili.com##.elec
@@ -322,6 +332,7 @@ space.bilibili.com##.reply-notice
 space.bilibili.com##.row
 space.bilibili.com###progress-overlay
 sspai.com###btn-call-app>div
+stackedit.io##.modal__sponsor-banner
 support.qq.com###txc-recommend
 swisscows.com##.popover
 t.bilibili.com##.bili-dyn-banner
@@ -373,6 +384,8 @@ wap.mail.qq.com##.download_container
 wapbaike.baidu.com###fVwPfEe11
 web.archive.org##.opened
 web.archive.org###dialog
+web.chatboxai.app##.disclaimer-safe-area
+web.chatboxai.app##.MuiAlert-message>b
 web.telegram.org##.is-sponsored
 web.telegram.org##.messaging-disabled
 web.telegram.org##.SponsoredMessage
@@ -606,18 +619,11 @@ www.wikiwand.com##.wrapper_atf__E8xY8
 www.wikiwand.com##.wrapper_box__eMVrW
 www.wikiwand.com##.wrapper_container__51TyV
 www.wikiwand.com##.wrapper_ob__27KzO
+www.wolai.com##._266WC
 www.woshipm.com###mob-btn
 www.yystv.cn##.mobile-tip-bottom
 www.zaobao.com.sg##.cursor-auto
 www.zaobao.com.sg###sph_cdp_40
-www.zdic.net##.google-auto-placed
-www.zdic.net##.mpuslot_b-container
-www.zdic.net##.topslot_container
-www.zdic.net###gg_cslot_1
-www.zdic.net###gg_cslot_2
-www.zdic.net###gg_rslot
-www.zdic.net###gg_rslot2
-www.zdic.net###gg_tslot
 www.zhihu.com##.css-1izy64v
 www.zhihu.com##.css-4r6j01
 www.zhihu.com##.css-183aq3r
@@ -672,6 +678,7 @@ zhidao.baidu.com##.mm-content-box
 zhidao.baidu.com##.wgt-type-question-danmu-wp
 zhuanlan.zhihu.com##.css-1gapyfo
 zhuanlan.zhihu.com##.css-1izy64v
+zhuanlan.zhihu.com##.css-1ncvp5r
 zhuanlan.zhihu.com##.css-1yun6kn
 zhuanlan.zhihu.com##.css-183aq3r
 zhuanlan.zhihu.com##.css-rg1dmv
